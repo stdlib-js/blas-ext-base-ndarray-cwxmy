@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-23)
+## Unreleased (2026-11-04)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`ec55375`](https://github.com/stdlib-js/stdlib/commit/ec55375b766d729b580ff0f98b07e6348c9db652) - **feat:** add C implementation for `blas/ext/base/ndarray/cwxmy` [(#16178)](https://github.com/stdlib-js/stdlib/pull/16178) _(by Samarth Kolarkar)_
 -   [`274c553`](https://github.com/stdlib-js/stdlib/commit/274c5538da9abf76ad0dcde4d1a9a1c80501cb65) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`47f6e1b`](https://github.com/stdlib-js/stdlib/commit/47f6e1bbad638fc9353d9fa70e095d6f857baadb) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -39,9 +40,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 -   Samarth Kolarkar
 
 </section>
